@@ -15,10 +15,12 @@ I have developed a lightweight, fully functional calculator application using Py
 
 * Input Management:
 
-Backspace (⌫): Allows users to delete the last entered digit or operator, making it easy to correct mistakes without starting over.
-
-Clear (C): Completely resets the calculator's display and state, providing a fresh start for a new calculation.
-![clear](/resources/clear.gif)
+1. Backspace (⌫): Allows users to delete the last entered digit or operator, making it easy to correct mistakes without starting over.
 ![backspace](/resources/backspace.gif)
+
+
+2. Clear (C): Completely resets the calculator's display and state, providing a fresh start for a new calculation.
+![clear](/resources/clear.gif)
+
 
 * User-Friendly Interface: Features a classic grid layout with clearly labeled buttons, making it easy and intuitive to use.
